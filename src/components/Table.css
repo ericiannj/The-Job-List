@@ -1,0 +1,18 @@
+th {
+  text-align: center;
+  background-color: white;
+  border-radius: 20px;
+  border: 1px solid #999;
+  font-size: 20px;
+  padding: 8px;
+}
+
+td {
+  text-align: center;
+  background-color: white;
+  border-radius: 20px;
+}
+
+tr {
+  border: 1px solid #999;
+}
